@@ -7,5 +7,7 @@ import szovegkezeles
 
 # falepites.feladat()
 
-szovegkezeles.hanyszor()
-szovegkezeles.hanyszor_ignoral()
+# szovegkezeles.hanyszor()
+# szovegkezeles.hanyszor_ignoral()
+
+szovegkezeles.idokezeles()
