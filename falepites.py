@@ -22,5 +22,4 @@ def feladat():
     if kisfalak_szama >= fal:
         kimenet = True
 
-
     print(kimenet)
